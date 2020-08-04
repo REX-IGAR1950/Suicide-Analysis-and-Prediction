@@ -20,6 +20,7 @@ DATA ANALYSIS AND VISUALIZATION:
 
 - CLUSTERING and understanding
 
+
 TIME SERIES PREDICTION (over male suicides)
 
 - Data Transformation to achieve Stationarity
